@@ -1,0 +1,11 @@
+.add > img{
+    box-sizing: border-box;
+    height: 120px;
+    width: 140px;
+    cursor: pointer;
+    margin: 20px;
+    border: 1px solid red;
+}
+.quote > button{
+    margin-left: 30px;
+}
