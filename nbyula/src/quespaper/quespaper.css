@@ -1,0 +1,33 @@
+.ques_head{
+    background-color: #F4F4F9;
+    height: 100%;
+    padding-bottom: 30px;
+}
+.question_paper{
+    margin: auto;
+    width: 50%;
+}
+.top_name{
+    box-sizing: border-box;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    width: 100%;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid red;
+    color: black;
+    height: 32px;
+}
+.top_disc{
+    box-sizing: border-box;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 40px;
+    width: 100%;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid red;
+    color: black;
+    height: 32px;
+}
