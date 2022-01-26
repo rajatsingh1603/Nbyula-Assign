@@ -31,3 +31,53 @@
     color: black;
     height: 32px;
 }
+
+.add_question_body{
+    display: flex;
+    align-items: center;
+}
+.text_input{
+    outline: none;
+    border: none;
+    height: 40px;
+    width: 490px;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: .2px;
+
+}
+.text_input:focus{
+    border-bottom: 1.5px solid red;
+}
+.add_ques_top{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.question{
+    box-sizing: border-box;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 400;
+    flex: 1;
+    line-height: 40px;
+    width: 40%;
+    border: none;
+    outline: none;
+    height: 40px;
+    margin-right: 10px;
+    line-height: 10px;
+    padding: 10px;
+}
+.select{
+    height: 40px;
+    width: 230px;
+    border: 0.5px solid;
+    padding: 5px 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 1.5px solid;
+    border-radius: 3px;
+    background: transparent;
+}

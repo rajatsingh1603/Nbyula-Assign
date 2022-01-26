@@ -14,7 +14,7 @@ function Home() {
     }
     return <div>
         <div className='add'>
-            <img src={add}></img>
+            <img src={add} alt='add'></img>
         </div>
         <div className='quote'>
         <Button variant="contained" onClick={createForm}>create quiz</Button>
