@@ -1,34 +1,3 @@
-Requirements- 
-Front end 
-1.react.js - ui is made through react.js with the complete use of components.
-
-Backend 
-1.node.js  -- to implement the server
-2.express  
-3.restAPI 
-  --Making diffrent apis 
-   -api for creating the qui
-    -includes updation of quiz components.
-   -api for deleting the quiz
-   -api for giving the quiz
-    -includes all the functional components regarding students functinality.
-   
-
-Database 
-1.Mongodb - noSql databse - why? easy to implement , data stored in object form , making queries is easy
-
-//database design 
-
-1.Schema - How data is stored in the database 
--->when the teacher submitted the quiz
--->entities that are to be stored in db are below 
-  -- course , coursename , questions , options , answerkey , points 
--->Track of every student which can be implemented by assigning a object of a student in which all his quiz history is saved.
-
-
-
-
-
 
 # Getting Started with Create React App
 
